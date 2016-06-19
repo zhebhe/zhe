@@ -3,12 +3,11 @@ This repository includes the public resources used by the Zenfone Assist Windows
 
 ## Versions
 
-| Version | Channel |     Status     |
-|---------|---------|----------------|
-| 0.1.0.0 | **BETA**| TO BE RELEASED |
-| 0.0.1.0 | **DEV** |  NOT RELEASED  |
+| Release Branch | Version |
+|----------------|---------|
+|    **BETA**    | 0.1.0.0 |
 
-## Screenshots (from the Development Preview)
+## Screenshots
 
 ![Droidboot Mode](Resources/Screenshots/DroidbootMode.png)
 
